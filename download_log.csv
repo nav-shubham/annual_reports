@@ -1,0 +1,532 @@
+Timestamp,URL,Company Name,Status,Year,Filename,Error
+2026-06-25 11:45:31,https://www.bseindia.com/stock-share-price/interglobe-aviation-ltd/indigo/539448,Interglobe Aviation Ltd,Downloaded,2025,Interglobe Aviation Ltd_2025.pdf,
+2026-06-25 11:46:00,https://www.bseindia.com/stock-share-price/max-healthcare-institute-limit/maxhealth/543220,Max Healthcare Institute Limit,Downloaded,2025,Max Healthcare Institute Limit_2025.pdf,
+2026-06-25 11:46:20,https://www.bseindia.com/stock-share-price/maruti-suzuki-india-ltd/maruti/532500,Maruti Suzuki India Ltd,Downloaded,2025,Maruti Suzuki India Ltd_2025.pdf,
+2026-06-25 11:47:40,https://www.bseindia.com/stock-share-price/interglobe-aviation-ltd/indigo/539448,Interglobe Aviation Ltd,Downloaded,2025,Interglobe Aviation Ltd_2025.pdf,
+2026-06-25 11:50:29,https://www.bseindia.com/stock-share-price/maruti-suzuki-india-ltd/maruti/532500,Maruti Suzuki India Ltd,Downloaded,2025,Maruti Suzuki India Ltd_2025.pdf,
+2026-06-25 11:50:45,https://www.bseindia.com/stock-share-price/interglobe-aviation-ltd/indigo/539448,Interglobe Aviation Ltd,Downloaded,2025,Interglobe Aviation Ltd_2025.pdf,
+2026-06-25 11:50:58,https://www.bseindia.com/stock-share-price/tata-motors-passenger-vehicles/tmpv/500570,Tata Motors Passenger Vehicles,Downloaded,2026,Tata Motors Passenger Vehicles_2026.pdf,
+2026-06-25 11:51:02,https://www.bseindia.com/stock-share-price/max-healthcare-institute-limit/maxhealth/543220,Max Healthcare Institute Limit,Downloaded,2025,Max Healthcare Institute Limit_2025.pdf,
+2026-06-25 11:53:31,https://www.bseindia.com/stock-share-price/samvardhana-motherson-internat/motherson/517334,Samvardhana Motherson Internat,Downloaded,2025,Samvardhana Motherson Internat_2025.pdf,
+2026-06-25 11:57:30,https://www.bseindia.com/stock-share-price/ashok-leyland-ltd/ashokley/500477,Ashok Leyland Ltd,Downloaded,2025,Ashok Leyland Ltd_2025.pdf,
+2026-06-25 11:57:30,https://www.bseindia.com/stock-share-price/one-97-communications-ltd/paytm/543396,One 97 Communications Ltd,Downloaded,2025,One 97 Communications Ltd_2025.pdf,
+2026-06-25 11:57:58,https://www.bseindia.com/stock-share-price/tvs-motor-company-ltd/tvsmotor/532343,Tvs Motor Company Ltd,Downloaded,2025,Tvs Motor Company Ltd_2025.pdf,
+2026-06-25 11:58:00,https://www.bseindia.com/stock-share-price/mahindra-&-mahindra-ltd/m&m/500520,Mahindra & Mahindra Ltd,Downloaded,2025,Mahindra & Mahindra Ltd_2025.pdf,
+2026-06-25 11:58:02,https://www.bseindia.com/stock-share-price/hero-motocorp-ltd/heromotoco/500182,Hero Motocorp Ltd,Downloaded,2025,Hero Motocorp Ltd_2025.pdf,
+2026-06-25 11:58:45,https://www.bseindia.com/stock-share-price/drreddys-laboratories-ltd/drreddy/500124,Drreddys Laboratories Ltd,Downloaded,2025,Drreddys Laboratories Ltd_2025.pdf,
+2026-06-25 11:58:46,https://www.bseindia.com/stock-share-price/pidilite-industries-ltd/pidilitind/500331,Pidilite Industries Ltd,Downloaded,2025,Pidilite Industries Ltd_2025.pdf,
+2026-06-25 11:59:27,https://www.bseindia.com/stock-share-price/hdfc-asset-management-company/hdfcamc/541729,Hdfc Asset Management Company,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 11:59:36,https://www.bseindia.com/stock-share-price/shriram-finance-ltd/shriramfin/511218,Shriram Finance Ltd,Downloaded,2026,Shriram Finance Ltd_2026.pdf,
+2026-06-25 12:00:16,https://www.bseindia.com/stock-share-price/cummins-india-ltd/cumminsind/500480,Cummins India Ltd,Downloaded,2025,Cummins India Ltd_2025.pdf,
+2026-06-25 12:00:18,https://www.bseindia.com/stock-share-price/united-spirits-ltd/unitdspr/532432,United Spirits Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:00:19,https://www.bseindia.com/stock-share-price/bajaj-holdings-&-investment-lt/bajajhldng/500490,Bajaj Holdings & Investment Lt,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:01:01,https://www.bseindia.com/stock-share-price/bajaj-auto-ltd/bajaj-auto/532977,Bajaj Auto Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:01:11,https://www.bseindia.com/stock-share-price/cg-power-and-industrial-soluti/cgpower/500093,Cg Power And Industrial Soluti,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:01:19,https://www.bseindia.com/stock-share-price/dixon-technologies-(india)-lim/dixon/540699,Dixon Technologies India Lim,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:01:36,https://www.bseindia.com/stock-share-price/state-bank-of-india/sbin/500112,State Bank Of India,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:02:07,https://www.bseindia.com/stock-share-price/hindustan-unilever-ltd/hindunilvr/500696,Hindustan Unilever Ltd,Downloaded,2026,Hindustan Unilever Ltd_2026.pdf,
+2026-06-25 12:02:08,https://www.bseindia.com/stock-share-price/marico-ltd/marico/531642,Marico Ltd,Downloaded,2025,Marico Ltd_2025.pdf,
+2026-06-25 12:02:21,https://www.bseindia.com/stock-share-price/eicher-motors-ltd/eichermot/505200,Eicher Motors Ltd,Downloaded,2025,Eicher Motors Ltd_2025.pdf,
+2026-06-25 12:02:27,https://www.bseindia.com/stock-share-price/kotak-mahindra-bank-ltd/kotakbank/500247,Kotak Mahindra Bank Ltd,Downloaded,2025,Kotak Mahindra Bank Ltd_2025.pdf,
+2026-06-25 12:03:40,https://www.bseindia.com/stock-share-price/larsen-&-toubro-ltd/lt/500510,Larsen & Toubro Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:03:40,https://www.bseindia.com/stock-share-price/nestle-india-ltd/nestleind/500790,Nestle India Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:03:41,https://www.bseindia.com/stock-share-price/icici-bank-ltd/icicibank/532174,Icici Bank Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:03:42,https://www.bseindia.com/stock-share-price/trent-ltd/trent/500251,Trent Ltd,Downloaded,2026,Trent Ltd_2026.pdf,
+2026-06-25 12:04:25,https://www.bseindia.com/stock-share-price/jio-financial-services-ltd/jiofin/543940,Jio Financial Services Ltd,Downloaded,2025,Jio Financial Services Ltd_2025.pdf,
+2026-06-25 12:05:05,https://www.bseindia.com/stock-share-price/cholamandalam-investment-and-f/cholafin/511243,Cholamandalam Investment And F,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:05:06,https://www.bseindia.com/stock-share-price/reliance-industries-ltd/reliance/500325,Reliance Industries Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:05:53,https://www.bseindia.com/stock-share-price/dlf-ltd/dlf/532868,Dlf Ltd,Downloaded,2025,Dlf Ltd_2025.pdf,
+2026-06-25 12:05:53,https://www.bseindia.com/stock-share-price/ultratech-cement-ltd/ultracemco/532538,Ultratech Cement Ltd,Downloaded,2025,Ultratech Cement Ltd_2025.pdf,
+2026-06-25 12:05:53,https://www.bseindia.com/stock-share-price/idfc-first-bank-ltd/idfcfirstb/539437,Idfc First Bank Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:05:57,https://www.bseindia.com/stock-share-price/coforge-ltd/coforge/532541,Coforge Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:06:10,https://www.bseindia.com/stock-share-price/hdfc-bank-ltd/hdfcbank/500180,Hdfc Bank Ltd,Downloaded,2025,Hdfc Bank Ltd_2025.pdf,
+2026-06-25 12:07:35,https://www.bseindia.com/stock-share-price/varun-beverages-ltd/vbl/540180,Varun Beverages Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:07:36,https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281,Hcl Technologies Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:07:37,https://www.bseindia.com/stock-share-price/bajaj-finance-ltd/bajfinance/500034,Bajaj Finance Ltd,Downloaded,2025,Bajaj Finance Ltd_2025.pdf,
+2026-06-25 12:07:49,https://www.bseindia.com/stock-share-price/apollo-hospitals-enterprise-lt/apollohosp/508869,Apollo Hospitals Enterprise Lt,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:07:54,https://www.bseindia.com/stock-share-price/godrej-consumer-products-ltd/godrejcp/532424,Godrej Consumer Products Ltd,Downloaded,2025,Godrej Consumer Products Ltd_2025.pdf,
+2026-06-25 12:09:01,https://www.bseindia.com/stock-share-price/sun-pharmaceutical-industries/sunpharma/524715,Sun Pharmaceutical Industries,Downloaded,2025,Sun Pharmaceutical Industries_2025.pdf,
+2026-06-25 12:09:06,https://www.bseindia.com/stock-share-price/the-indian-wood-products-co-l/iwp/540954,The Indian Wood Products Co L,Downloaded,2025,The Indian Wood Products Co L_2025.pdf,
+2026-06-25 12:09:07,https://www.bseindia.com/stock-share-price/indus-towers-ltd/industower/534816,Indus Towers Ltd,Downloaded,2025,Indus Towers Ltd_2025.pdf,
+2026-06-25 12:09:13,https://www.bseindia.com/stock-share-price/asian-paints-ltd/asianpaint/500820,Asian Paints Ltd,Downloaded,2026,Asian Paints Ltd_2026.pdf,
+2026-06-25 12:09:22,https://www.bseindia.com/stock-share-price/hdfc-life-insurance-company-li/hdfclife/540777,Hdfc Life Insurance Company Li,Downloaded,2026,Hdfc Life Insurance Company Li_2026.pdf,
+2026-06-25 12:09:41,https://www.bseindia.com/stock-share-price/punjab-national-bank/pnb/532461,Punjab National Bank,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dcf8b1]
+	chromedriver!(No symbol) [0x7ff652dd2875]
+	chromedriver!(No symbol) [0x7ff652dd293f]
+	chromedriver!(No symbol) [0x7ff652e1cd2c]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e157c6]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:09:43,https://www.bseindia.com/stock-share-price/adani-enterprises-ltd/adanient/512599,Adani Enterprises Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 12:10:37,https://www.bseindia.com/stock-share-price/indusind-bank-ltd/indusindbk/532187,Unknown,Failed,,,"Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=149.0.7827.115)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dc44ce]
+	chromedriver!(No symbol) [0x7ff652db4711]
+	chromedriver!(No symbol) [0x7ff652db657f]
+	chromedriver!(No symbol) [0x7ff652db4cb3]
+	chromedriver!(No symbol) [0x7ff652db447b]
+	chromedriver!(No symbol) [0x7ff652db4131]
+	chromedriver!(No symbol) [0x7ff652db1e01]
+	chromedriver!(No symbol) [0x7ff652db2562]
+	chromedriver!(No symbol) [0x7ff652dcbbe6]
+	chromedriver!(No symbol) [0x7ff652e701c4]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:10:50,https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354,Havells India Ltd,Failed,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652e21aad]
+	chromedriver!(No symbol) [0x7ff652e21dac]
+	chromedriver!(No symbol) [0x7ff652e727d7]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 12:10:51,https://www.bseindia.com/stock-share-price/tata-consumer-products-ltd/tataconsum/500800,Unknown,Failed,,,"Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=149.0.7827.115)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff653283fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff653284000+14980]
+	chromedriver!(No symbol) [0x7ff652dc793d]
+	chromedriver!(No symbol) [0x7ff652dc44ce]
+	chromedriver!(No symbol) [0x7ff652db4711]
+	chromedriver!(No symbol) [0x7ff652db657f]
+	chromedriver!(No symbol) [0x7ff652db4cb3]
+	chromedriver!(No symbol) [0x7ff652db447b]
+	chromedriver!(No symbol) [0x7ff652db4131]
+	chromedriver!(No symbol) [0x7ff652db1e01]
+	chromedriver!(No symbol) [0x7ff652db2562]
+	chromedriver!(No symbol) [0x7ff652dcbbe6]
+	chromedriver!(No symbol) [0x7ff652e701c4]
+	chromedriver!(No symbol) [0x7ff652e4a3ca]
+	chromedriver!(No symbol) [0x7ff652e6f39b]
+	chromedriver!(No symbol) [0x7ff652e1401c]
+	chromedriver!(No symbol) [0x7ff652e14f43]
+	chromedriver!GetHandleVerifier [0x7ff653867591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff653861902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff653887115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6532a1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6532aa82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65328d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65328d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff653271447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcc1987374+14]
+	ntdll!RtlUserThreadStart [0x7ffcc237cc91+21]
+"
+2026-06-25 13:38:54,https://www.bseindia.com/stock-share-price/tata-consultancy-services-ltd/tcs/532540,Tata Consultancy Services Ltd,Downloaded,2026,Tata Consultancy Services Ltd_2026.pdf,
+2026-06-25 13:38:54,https://www.bseindia.com/stock-share-price/united-spirits-ltd/unitdspr/532432,United Spirits Ltd,Downloaded,2025,United Spirits Ltd_2025.pdf,
+2026-06-25 13:38:54,https://www.bseindia.com/stock-share-price/bajaj-holdings-&-investment-lt/bajajhldng/500490,Bajaj Holdings & Investment Lt,Downloaded,2025,Bajaj Holdings & Investment Lt_2025.pdf,
+2026-06-25 13:38:54,https://www.bseindia.com/stock-share-price/hdfc-asset-management-company/hdfcamc/541729,Hdfc Asset Management Company,Downloaded,2026,Hdfc Asset Management Company_2026.pdf,
+2026-06-25 13:40:59,https://www.bseindia.com/stock-share-price/dixon-technologies-(india)-lim/dixon/540699,Dixon Technologies India Lim,Downloaded,2025,Dixon Technologies India Lim_2025.pdf,
+2026-06-25 13:41:12,https://www.bseindia.com/stock-share-price/cg-power-and-industrial-soluti/cgpower/500093,Cg Power And Industrial Soluti,Downloaded,2024,Cg Power And Industrial Soluti_2024.pdf,
+2026-06-25 13:41:32,https://www.bseindia.com/stock-share-price/bajaj-auto-ltd/bajaj-auto/532977,Bajaj Auto Ltd,Downloaded,2026,Bajaj Auto Ltd_2026.pdf,
+2026-06-25 13:41:32,https://www.bseindia.com/stock-share-price/state-bank-of-india/sbin/500112,State Bank Of India,Downloaded,2026,State Bank Of India_2026.pdf,
+2026-06-25 13:42:13,https://www.bseindia.com/stock-share-price/larsen-&-toubro-ltd/lt/500510,Larsen & Toubro Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:42:15,https://www.bseindia.com/stock-share-price/nestle-india-ltd/nestleind/500790,Nestle India Ltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 13:42:56,https://www.bseindia.com/stock-share-price/reliance-industries-ltd/reliance/500325,Reliance Industries Ltd,Downloaded,2026,Reliance Industries Ltd_2026.pdf,
+2026-06-25 13:42:56,https://www.bseindia.com/stock-share-price/icici-bank-ltd/icicibank/532174,Icici Bank Ltd,Downloaded,2025,Icici Bank Ltd_2025.pdf,
+2026-06-25 13:42:56,https://www.bseindia.com/stock-share-price/cholamandalam-investment-and-f/cholafin/511243,Cholamandalam Investment And F,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 13:45:55,https://www.bseindia.com/stock-share-price/coforge-ltd/coforge/532541,Coforge Ltd,Downloaded,2025,Coforge Ltd_2025.pdf,
+2026-06-25 13:46:01,https://www.bseindia.com/stock-share-price/idfc-first-bank-ltd/idfcfirstb/539437,Idfc First Bank Ltd,Downloaded,2025,Idfc First Bank Ltd_2025.pdf,
+2026-06-25 13:46:25,https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281,Hcl Technologies Ltd,Downloaded,2025,Hcl Technologies Ltd_2025.pdf,
+2026-06-25 13:46:26,https://www.bseindia.com/stock-share-price/varun-beverages-ltd/vbl/540180,Varun Beverages Ltd,Downloaded,2025,Varun Beverages Ltd_2025.pdf,
+2026-06-25 13:47:21,https://www.bseindia.com/stock-share-price/apollo-hospitals-enterprise-lt/apollohosp/508869,Apollo Hospitals Enterprise Lt,Downloaded,2025,Apollo Hospitals Enterprise Lt_2025.pdf,
+2026-06-25 13:47:22,https://www.bseindia.com/stock-share-price/punjab-national-bank/pnb/532461,Punjab National Bank,Downloaded,2026,Punjab National Bank_2026.pdf,
+2026-06-25 13:47:40,https://www.bseindia.com/stock-share-price/havells-india-ltd/havells/517354,Havells India Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:47:45,https://www.bseindia.com/stock-share-price/adani-enterprises-ltd/adanient/512599,Adani Enterprises Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:48:16,https://www.bseindia.com/stock-share-price/tata-consumer-products-ltd/tataconsum/500800,Tata Consumer Products Ltd,Downloaded,2026,Tata Consumer Products Ltd_2026.pdf,
+2026-06-25 13:48:17,https://www.bseindia.com/stock-share-price/indusind-bank-ltd/indusindbk/532187,Indusind Bank Ltd,Downloaded,2025,Indusind Bank Ltd_2025.pdf,
+2026-06-25 13:48:43,https://www.bseindia.com/stock-share-price/jsw-steel-ltd/jswsteel/500228,Jsw Steel Ltd,Downloaded,2025,Jsw Steel Ltd_2025.pdf,
+2026-06-25 13:48:44,https://www.bseindia.com/stock-share-price/itc-ltd/itc/500875,Itc Ltd,Downloaded,2025,Itc Ltd_2025.pdf,
+2026-06-25 13:49:15,https://www.bseindia.com/stock-share-price/axis-bank-ltd/axisbank/532215,Axis Bank Ltd,Downloaded,2026,Axis Bank Ltd_2026.pdf,
+2026-06-25 13:49:21,https://www.bseindia.com/stock-share-price/adani-ports-and-special-econom/adaniports/532921,Adani Ports And Special Econom,Downloaded,2026,Adani Ports And Special Econom_2026.pdf,
+2026-06-25 13:49:44,https://www.bseindia.com/stock-share-price/adani-power-ltd/adanipower/533096,Adani Power Ltd,Downloaded,2026,Adani Power Ltd_2026.pdf,
+2026-06-25 13:49:55,https://www.bseindia.com/stock-share-price/bajaj-finserv-ltd/bajajfinsv/532978,Bajaj Finserv Ltd,Downloaded,2025,Bajaj Finserv Ltd_2025.pdf,
+2026-06-25 13:50:05,https://www.bseindia.com/stock-share-price/cipla-ltd/cipla/500087,Cipla Ltd,Downloaded,2026,Cipla Ltd_2026.pdf,
+2026-06-25 13:50:11,https://www.bseindia.com/stock-share-price/tata-power-coltd/tatapower/500400,Tata Power Coltd,Skipped,,,No report found for 2026/2025/2024
+2026-06-25 13:50:31,https://www.bseindia.com/stock-share-price/icici-lombard-general-insuranc/icicigi/540716,Icici Lombard General Insuranc,Downloaded,2026,Icici Lombard General Insuranc_2026.pdf,
+2026-06-25 13:50:32,https://www.bseindia.com/stock-share-price/lupin-ltd/lupin/500257,Lupin Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:50:54,https://www.bseindia.com/stock-share-price/ltm-ltd/ltm/540005,Ltm Ltd,Downloaded,2026,Ltm Ltd_2026.pdf,
+2026-06-25 13:51:04,https://www.bseindia.com/stock-share-price/hindustan-aeronautics-ltd/hal/541154,Hindustan Aeronautics Ltd,Downloaded,2025,Hindustan Aeronautics Ltd_2025.pdf,
+2026-06-25 13:51:38,https://www.bseindia.com/stock-share-price/bharat-petroleum-corporation-l/bpcl/500547,Bharat Petroleum Corporation L,Downloaded,2025,Bharat Petroleum Corporation L_2025.pdf,
+2026-06-25 13:51:39,https://www.bseindia.com/stock-share-price/ntpc-ltd/ntpc/532555,Ntpc Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:51:39,https://www.bseindia.com/stock-share-price/srf-ltd/srf/503806,Srf Ltd,Downloaded,2026,Srf Ltd_2026.pdf,
+2026-06-25 13:51:39,https://www.bseindia.com/stock-share-price/yes-bank-ltd/yesbank/532648,Yes Bank Ltd,Downloaded,2025,Yes Bank Ltd_2025.pdf,
+2026-06-25 13:52:56,https://www.bseindia.com/stock-share-price/wipro-ltd/wipro/507685,Wipro Ltd,Downloaded,2026,Wipro Ltd_2026.pdf,
+2026-06-25 13:52:57,https://www.bseindia.com/stock-share-price/power-finance-corporation-ltd/pfc/532810,Power Finance Corporation Ltd,Downloaded,2025,Power Finance Corporation Ltd_2025.pdf,
+2026-06-25 13:53:07,https://www.bseindia.com/stock-share-price/shree-cement-ltd/shreecem/500387,Shree Cement Ltd,Downloaded,2025,Shree Cement Ltd_2025.pdf,
+2026-06-25 13:53:18,https://www.bseindia.com/stock-share-price/britannia-industries-ltd/britannia/500825,Britannia Industries Ltd,Downloaded,2025,Britannia Industries Ltd_2025.pdf,
+2026-06-25 13:53:42,https://www.bseindia.com/stock-share-price/grasim-industries-ltd/grasim/500300,Grasim Industries Ltd,Downloaded,2025,Grasim Industries Ltd_2025.pdf,
+2026-06-25 13:54:01,https://www.bseindia.com/stock-share-price/gail-(india)-ltd/gail/532155,Gail India Ltd,Downloaded,2025,Gail India Ltd_2025.pdf,
+2026-06-25 13:54:06,https://www.bseindia.com/stock-share-price/canara-bank/canbk/532483,Canara Bank,Downloaded,2026,Canara Bank_2026.pdf,
+2026-06-25 13:54:10,https://www.bseindia.com/stock-share-price/eternal-ltd/eternal/543320,Eternal Ltd,Downloaded,2025,Eternal Ltd_2025.pdf,
+2026-06-25 13:54:24,https://www.bseindia.com/stock-share-price/pb-fintech-ltd/policybzr/543390,Pb Fintech Ltd,Downloaded,2025,Pb Fintech Ltd_2025.pdf,
+2026-06-25 13:54:42,https://www.bseindia.com/stock-share-price/avenue-supermarts-ltd/dmart/540376,Avenue Supermarts Ltd,Downloaded,2025,Avenue Supermarts Ltd_2025.pdf,
+2026-06-25 13:54:57,https://www.bseindia.com/stock-share-price/bank-of-baroda/bankbaroda/532134,Bank Of Baroda,Downloaded,2026,Bank Of Baroda_2026.pdf,
+2026-06-25 13:55:10,https://www.bseindia.com/stock-share-price/tata-steel-ltd/tatasteel/500470,Tata Steel Ltd,Downloaded,2026,Tata Steel Ltd_2026.pdf,
+2026-06-25 13:55:10,https://www.bseindia.com/stock-share-price/tech-mahindra-ltd/techm/532755,Tech Mahindra Ltd,Downloaded,2026,Tech Mahindra Ltd_2026.pdf,
+2026-06-25 13:55:36,https://www.bseindia.com/stock-share-price/infosys-ltd/infy/500209,Infosys Ltd,Downloaded,2026,Infosys Ltd_2026.pdf,
+2026-06-25 13:55:37,https://www.bseindia.com/stock-share-price/federal-bank-ltd/federalbnk/500469,Federal Bank Ltd,Downloaded,2025,Federal Bank Ltd_2025.pdf,
+2026-06-25 13:56:01,https://www.bseindia.com/stock-share-price/indian-oil-corporation-ltd/ioc/530965,Indian Oil Corporation Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:56:14,https://www.bseindia.com/stock-share-price/bharti-airtel-ltd/bhartiartl/532454,Bharti Airtel Ltd,Downloaded,2025,Bharti Airtel Ltd_2025.pdf,
+2026-06-25 13:56:42,https://www.bseindia.com/stock-share-price/suzlon-energy-ltd/suzlon/532667,Suzlon Energy Ltd,Downloaded,2025,Suzlon Energy Ltd_2025.pdf,
+2026-06-25 13:56:45,https://www.bseindia.com/stock-share-price/bharat-electronics-ltd/bel/500049,Bharat Electronics Ltd,Downloaded,2025,Bharat Electronics Ltd_2025.pdf,
+2026-06-25 13:57:02,https://www.bseindia.com/stock-share-price/persistent-systems-ltd/persistent/533179,Persistent Systems Ltd,Downloaded,2025,Persistent Systems Ltd_2025.pdf,
+2026-06-25 13:57:03,https://www.bseindia.com/stock-share-price/divis-laboratories-ltd/divislab/532488,Divis Laboratories Ltd,Downloaded,2025,Divis Laboratories Ltd_2025.pdf,
+2026-06-25 13:57:42,https://www.bseindia.com/stock-share-price/info-edge-(india)-ltd/naukri/532777,Info Edge (India) Ltd,Downloaded,2025,Info Edge (India) Ltd_2025.pdf,
+2026-06-25 13:57:43,https://www.bseindia.com/stock-share-price/rec-ltd/recltd/532955,Rec Ltd,Downloaded,2025,Rec Ltd_2025.pdf,
+2026-06-25 13:57:44,https://www.bseindia.com/stock-share-price/au-small-finance-bank-ltd/aubank/540611,Au Small Finance Bank Ltd,Failed,,,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b4aa3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6b4aa4000+14980]
+	chromedriver!(No symbol) [0x7ff6b45e793d]
+	chromedriver!(No symbol) [0x7ff6b45ef8b1]
+	chromedriver!(No symbol) [0x7ff6b45f2875]
+	chromedriver!(No symbol) [0x7ff6b45f293f]
+	chromedriver!(No symbol) [0x7ff6b463cd2c]
+	chromedriver!(No symbol) [0x7ff6b466a3ca]
+	chromedriver!(No symbol) [0x7ff6b46357c6]
+	chromedriver!(No symbol) [0x7ff6b468f39b]
+	chromedriver!(No symbol) [0x7ff6b463401c]
+	chromedriver!(No symbol) [0x7ff6b4634f43]
+	chromedriver!GetHandleVerifier [0x7ff6b5087591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6b5081902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6b50a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6b4ac1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6b4aca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6b4aad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff6b4a91447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe96cb7374+14]
+	ntdll!RtlUserThreadStart [0x7ffe9837cc91+21]
+"
+2026-06-25 13:57:56,https://www.bseindia.com/stock-share-price/sbi-life-insurance-company-lim/sbilife/540719,Sbi Life Insurance Company Lim,Downloaded,2025,Sbi Life Insurance Company Lim_2025.pdf,
+2026-06-25 14:00:02,https://www.bseindia.com/stock-share-price/hindalco-industries-ltd/hindalco/500440,Hindalco Industries Ltd,Downloaded,2025,Hindalco Industries Ltd_2025.pdf,
+2026-06-25 14:00:04,https://www.bseindia.com/stock-share-price/oil-and-natural-gas-corporatio/ongc/500312,Oil And Natural Gas Corporatio,Downloaded,2025,Oil And Natural Gas Corporatio_2025.pdf,
+2026-06-25 14:00:12,https://www.bseindia.com/stock-share-price/coal-india-ltd/coalindia/533278,Coal India Ltd,Downloaded,2025,Coal India Ltd_2025.pdf,
+2026-06-25 14:00:20,https://www.bseindia.com/stock-share-price/power-grid-corporation-of-indi/powergrid/532898,Power Grid Corporation Of Indi,Downloaded,2025,Power Grid Corporation Of Indi_2025.pdf,
+2026-06-25 14:00:34,https://www.bseindia.com/stock-share-price/titan-company-ltd/titan/500114,Titan Company Ltd,Downloaded,2025,Titan Company Ltd_2025.pdf,
