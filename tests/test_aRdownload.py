@@ -42,4 +42,3 @@ class TestARdownload():
     self.driver.find_element(By.CSS_SELECTOR, "tr:nth-child(1) .far").click()
     self.vars["win9537"] = self.wait_for_window(2000)
     self.driver.switch_to.window(self.vars["win9537"])
-  

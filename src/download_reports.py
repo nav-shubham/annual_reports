@@ -4,6 +4,7 @@ import re
 import time
 import urllib.parse
 import threading
+from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 import requests
 from selenium import webdriver
@@ -11,12 +12,16 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Setup download folder
-DOWNLOAD_DIR = "downloaded_reports"
+# Setup path resolution relative to script directory
+SCRIPT_DIR = Path(__file__).resolve().parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+
+DOWNLOAD_DIR = str(PROJECT_ROOT / "data" / "downloaded_reports")
+LOG_FILE = str(PROJECT_ROOT / "data" / "download_log.csv")
+
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
 # Log file path
-LOG_FILE = "download_log.csv"
 log_lock = threading.Lock()
 
 def sanitize_filename(name):
@@ -201,11 +206,12 @@ def process_url(url, idx, total_urls):
 def main():
     # Read URLs
     urls = []
-    if not os.path.exists("url.csv"):
-        print("Error: url.csv not found in the current directory.")
+    url_csv_path = PROJECT_ROOT / "data" / "url.csv"
+    if not url_csv_path.exists():
+        print(f"Error: {url_csv_path.name} not found at {url_csv_path}.")
         return
         
-    with open("url.csv", "r") as f:
+    with open(url_csv_path, "r") as f:
         reader = csv.reader(f)
         for row in reader:
             if row:
@@ -218,7 +224,8 @@ def main():
                 
     total_urls = len(urls)
     
-    # Initialize log file header if not exists
+    # Ensure log directory and file header exists
+    os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, "w", newline="", encoding="utf-8") as log_f:
             log_writer = csv.writer(log_f)
